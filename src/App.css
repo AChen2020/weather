@@ -1,0 +1,17 @@
+.card {
+    margin-bottom: 10px;
+    border: 1px solid #007bff;
+}
+
+.card-title {
+    color: #007bff;
+}
+
+.weatherLable {
+    color: #056ddc;
+    font-weight: bold;
+}
+
+.weatherContent {
+    color: #1a5da7;
+}

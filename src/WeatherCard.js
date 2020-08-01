@@ -29,7 +29,7 @@ export default function WeatherCard(props) {
     }, [props.city])
 
     return (
-        <Card style={{ width: '50rem' }}>
+        <Card>
             <Card.Title>{props.city}</Card.Title>
             <Card.Body>
                 {loading && <Loading/>}
